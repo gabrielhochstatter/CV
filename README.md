@@ -1,38 +1,46 @@
-## Your Name
+## Gabriel Hochstatter
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+***
 
-## Skills
+[Current Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
-#### This Skill
+Full-stack junior developer and graduate of the highly-selective 12-week [Makers Academy](https://github.com/makersacademy) coding bootcamp in London. Coming from a creative but highly technical background in music production, once I discovered coding I couldn't get enough, and pursuing a career in software development seemed to be an obvious choice for me.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Over the past few months I have grown from an enthusiastic coding hobbyist into someone who has come to value well-tested, clean and reusable code that is easy to understand and expand by the next person to work on it after myself.
 
-- Experience
-- Achievements
-- Evidence
+Currently seeking a position in London where I can take my skills and learning even further, and where I can be proud of the product I am working on.
 
-#### Another Skill
+## <a name="projects">Projects & Code</a>
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Project | Description | Repo / Demo Links | Technologies | Testing
+--- | --- | --- | --- | ---
+[Final Project](http://link-doesnt-exist-yet.rs) | Description will go here etc. | [GitHub Repo](http://no-link.blah) | Languages TBD
+ | Testing TBD
+ [Acebook](https://github.com/gabrielhochstatter/acebook-byte-2) | A full stack facebook clone | [GitHub Repo](https://github.com/gabrielhochstatter/acebook-byte-2) [Video Demo](youtube.com/acebook-linketc) | Ruby, Rails, Postgres, HTML, CSS | RSpec, Capybara
+ [Other Project TBD](nolink.etc) | Cool Description goes here | Languages etc | Testing stuff
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+## <a name="skills>Skills</a>
+
+*Maybe put tech/languages here?*
+
+- **Fast Learner** - Both in my previous career and in my time learning to code over the past few months, I've always had to learn new skills and technologies in short timeframes. *mention something about final project using new tech with no prior experience*.
+- **Problem Solver** - Music production, much like software development, involves solving many small problems in a row to achieve a greater goal.
+- **Enthusiastic** - Finding my new passion in coding has made me highly motivated, almost every day I find something new that gets me excited about software development.
+- **Creative** - In my previous line of work creativity was essential and I have found it very useful in the early days of my new career.
+- **Attention to detail** - I am always looking out to make sure that my work is well-crafted, and the small details are a big part of that.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2018 to June 2018)
+12 week intensive coding bootcamp.
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Focused on Test Driven Development and Object Oriented Design.
+- Pair programming and team work to build communication skills in a software development environment.
+- Full stack web development, both from scratch and using frameworks such as Rails.
+- Agile and XP values instilled in the students from day one.
+- Fast-paced learning, introducing new concepts and technologies on a almost daily basis.
+- *mention super cool final project again*
 
 #### Your University / College (start_date to end_date)
 
@@ -44,7 +52,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+*To be added*
