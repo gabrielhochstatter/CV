@@ -19,7 +19,7 @@ Project | Description | Repo / Demo Links | Technologies | Testing
 [Other Project TBD](nolink.etc) | Cool Description goes here | github link here | Languages etc | Testing stuff
 
 
-## <a name="skills>Skills</a>
+## Skills
 
 *Maybe put tech/languages here?*
 
