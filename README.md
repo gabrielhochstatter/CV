@@ -16,7 +16,7 @@ Project | Description | Repo / Demo Links | Technologies | Testing
 --- | --- | --- | --- | ---
 [Final Project](http://link-doesnt-exist-yet.rs) | Description will go here etc. | [GitHub Repo](http://no-link.blah) | Languages TBD | Testing TBD
 [Acebook](https://github.com/gabrielhochstatter/acebook-byte-2) | A full stack facebook clone | [GitHub Repo](https://github.com/gabrielhochstatter/acebook-byte-2) [Video Demo](youtube.com/acebook-linketc) | Ruby, Rails, Postgres, HTML, CSS | RSpec, Capybara
-[Other Project TBD](nolink.etc) | Cool Description goes here | Languages etc | Testing stuff
+[Other Project TBD](nolink.etc) | Cool Description goes here | github link here | Languages etc | Testing stuff
 
 
 ## <a name="skills>Skills</a>
