@@ -1,7 +1,5 @@
 ## Gabriel Hochstatter
 
-***
-
 [Current Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
 Full-stack junior developer and graduate of the highly-selective 12-week [Makers Academy](https://github.com/makersacademy) coding bootcamp in London. Coming from a creative but highly technical background in music production, once I discovered coding I couldn't get enough, and pursuing a career in software development seemed to be an obvious choice for me.
@@ -14,22 +12,26 @@ Currently seeking a position in London where I can take my skills and learning e
 
 Project | Description | Repo / Demo Links | Technologies | Testing
 --- | --- | --- | --- | ---
-[Final Project](http://link-doesnt-exist-yet.rs) | Description will go here etc. | [GitHub Repo](http://no-link.blah) | Languages TBD | Testing TBD
-[Acebook](https://github.com/gabrielhochstatter/acebook-byte-2) | A full stack facebook clone | [GitHub Repo](https://github.com/gabrielhochstatter/acebook-byte-2) [Video Demo](youtube.com/acebook-linketc) | Ruby, Rails, Postgres, HTML, CSS | RSpec, Capybara
-[Other Project TBD](nolink.etc) | Cool Description goes here | github link here | Languages etc | Testing stuff
+[Beat Makers](https://drum-machine-fksukfijbx.now.sh/) | A JavaScript step-sequencer drum machine with CSS animations that respond to the beat | [GitHub Repo](https://github.com/gabrielhochstatter/drum-machine) | JavaScript, jQuery, Howler.js, CSS, HTML5 | Jasmine
+[Acebook](https://github.com/gabrielhochstatter/acebook-byte-2) | A full stack Ruby-on-Rails facebook clone | [GitHub Repo](https://github.com/gabrielhochstatter/acebook-byte-2) | Ruby, Rails, Postgres, HTML, CSS | RSpec, Capybara
+[Simulated Bank Account Tech Test](https://github.com/gabrielhochstatter/bank-account) | A simulated tech test for Makers Academy, designed to demonstrate a core understanding of Object-Oriented Programming. Focus on simple but high quality code. | [GitHub Repo](https://github.com/gabrielhochstatter/bank-account) | Ruby | RSpec
 
+## <a name="skills">Skills</a>
 
-## Skills
+#### Languages / Technologies / Methodologies:
 
-*Maybe put tech/languages here?*
+- **Ruby, Ruby on Rails, JavaScript, jQuery, HTML5, CSS, MVC frameworks**
+- **RSpec, Capybara, Selenium, Jasmine, Cypress**
+- **TDD, Agile, XP Values**
+- **Git, Unix**
 
-- **Fast Learner** - Both in my previous career and in my time learning to code over the past few months, I've always had to learn new skills and technologies in short timeframes. *mention something about final project using new tech with no prior experience*.
+- **Fast Learner** - Both in my previous career and in my time learning to code over the past few months, I've always had to learn new skills and technologies in short timeframes.
 - **Problem Solver** - Music production, much like software development, involves solving many small problems in a row to achieve a greater goal.
 - **Enthusiastic** - Finding my new passion in coding has made me highly motivated, almost every day I find something new that gets me excited about software development.
 - **Creative** - In my previous line of work creativity was essential and I have found it very useful in the early days of my new career.
 - **Attention to detail** - I am always looking out to make sure that my work is well-crafted, and the small details are a big part of that.
 
-## Education
+## <a name="education">Education</a>
 
 #### Makers Academy (March 2018 to June 2018)
 12 week intensive coding bootcamp.
@@ -39,16 +41,23 @@ Project | Description | Repo / Demo Links | Technologies | Testing
 - Full stack web development, both from scratch and using frameworks such as Rails.
 - Agile and XP values instilled in the students from day one.
 - Fast-paced learning, introducing new concepts and technologies on a almost daily basis.
-- *mention super cool final project again*
 
-#### Your University / College (start_date to end_date)
+## <a name="experience">Experience</a>
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### PARITY
+*Music Producer*
+*2011 - 2018*
+A music production project that achieved over 1 million plays on Spotify, global radio play and live support from top DJs in the genre.
+Also provided production, writing, mixing and mastering services for a wide variety of clients all over the world. [Spotify](https://open.spotify.com/artist/1L4Il7L0c0kU1bVAQbrQkv?si=ph9AaYWETM2lpeBl2LD69A)
 
-#### Any other qualifications
+## <a name="interests">Hobbies and Interests</a>
 
-## Experience
+- Huge passion for electronic music of almost every description and genre (lately I'm really into techno).
+- Anything and everything automotive and motorsports related.
+- I also quite enjoy gaming and following competitive e-sports.
 
-*To be added*
+***
+
+#### <a name="contact">Contact info:</a>
+- email: gabrielhochstatter@gmail.com
+- phone: 078 00 857 462
