@@ -25,6 +25,8 @@ Project | Description | Repo / Demo Links | Technologies | Testing
 - **TDD, Agile, XP Values**
 - **Git, Unix**
 
+#### General Skills:
+
 - **Fast Learner** - Both in my previous career and in my time learning to code over the past few months, I've always had to learn new skills and technologies in short timeframes.
 - **Problem Solver** - Music production, much like software development, involves solving many small problems in a row to achieve a greater goal.
 - **Enthusiastic** - Finding my new passion in coding has made me highly motivated, almost every day I find something new that gets me excited about software development.
