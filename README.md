@@ -8,7 +8,7 @@
 
 [Current Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) 
 
-Full-stack junior developer and graduate of the highly-selective 12-week [Makers Academy](https://github.com/makersacademy) coding bootcamp in London. Coming from a creative but highly technical background in music production, once I discovered coding I couldn't get enough, and pursuing a career in software development seemed to be an obvious choice for me.
+Full-stack junior developer and graduate of the highly-selective 12-week [Makers Academy](https://www.makersacademy.com) coding bootcamp in London. Coming from a creative but highly technical background in music production, once I discovered coding I couldn't get enough, and pursuing a career in software development seemed to be an obvious choice for me.
 
 Over the past few months I have grown from an enthusiastic coding hobbyist into someone who has come to value well-tested, clean and reusable code that is easy to understand and expand by the next person to work on it after myself.
 
