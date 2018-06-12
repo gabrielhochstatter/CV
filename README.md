@@ -51,11 +51,13 @@ Project | Description | Repo / Demo Links | Technologies | Testing
 
 #### Leeds Trinity University (2010 to 2011)
 **BA Journalism**
-*Left unfinished to pursue music career*
+
+*Left unfinished to pursue career in music.*
 
 #### Gimnazija Bezigrad - Ljubljana, Slovenia
-** IB Diploma **
-*Class of 2009*
+**IB Diploma**
+
+*High school, graduated 2009.*
 
 ## <a name="experience">Experience</a>
 
