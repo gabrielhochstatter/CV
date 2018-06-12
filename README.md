@@ -1,12 +1,18 @@
 ## Gabriel Hochstatter
 
+📍 *London, UK*
+
+✉️ gabrielhochstatter@gmail.com
+
+☎️ 078 00 857 462
+
 [Current Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
 Full-stack junior developer and graduate of the highly-selective 12-week [Makers Academy](https://github.com/makersacademy) coding bootcamp in London. Coming from a creative but highly technical background in music production, once I discovered coding I couldn't get enough, and pursuing a career in software development seemed to be an obvious choice for me.
 
 Over the past few months I have grown from an enthusiastic coding hobbyist into someone who has come to value well-tested, clean and reusable code that is easy to understand and expand by the next person to work on it after myself.
 
-Currently seeking a position in London where I can take my skills and learning even further, and where I can be proud of the product I am working on.
+Currently seeking a position in London where I can take my skills and learning even further, and where I can be proud of the project I am working on.
 
 ## <a name="projects">Projects & Code</a>
 
@@ -23,7 +29,6 @@ Project | Description | Repo / Demo Links | Technologies | Testing
 - **Ruby, Ruby on Rails, JavaScript, jQuery, HTML5, CSS, MVC frameworks**
 - **RSpec, Capybara, Selenium, Jasmine, Cypress**
 - **TDD, Agile, XP Values**
-- **Git, Unix**
 
 #### General Skills:
 
@@ -44,11 +49,21 @@ Project | Description | Repo / Demo Links | Technologies | Testing
 - Agile and XP values instilled in the students from day one.
 - Fast-paced learning, introducing new concepts and technologies on a almost daily basis.
 
+#### Leeds Trinity University (2010 to 2011)
+**BA Journalism**
+*Left unfinished to pursue music career*
+
+#### Gimnazija Bezigrad - Ljubljana, Slovenia
+** IB Diploma **
+*Class of 2009*
+
 ## <a name="experience">Experience</a>
 
 #### PARITY
-*Music Producer*
+***Music Producer***
+
 *2011 - 2018*
+
 A music production project that achieved over 1 million plays on Spotify, global radio play and live support from top DJs in the genre.
 Also provided production, writing, mixing and mastering services for a wide variety of clients all over the world. [Spotify](https://open.spotify.com/artist/1L4Il7L0c0kU1bVAQbrQkv?si=ph9AaYWETM2lpeBl2LD69A)
 
@@ -57,9 +72,3 @@ Also provided production, writing, mixing and mastering services for a wide vari
 - Huge passion for electronic music of almost every description and genre (lately I'm really into techno).
 - Anything and everything automotive and motorsports related.
 - I also quite enjoy gaming and following competitive e-sports.
-
-***
-
-#### <a name="contact">Contact info:</a>
-- email: gabrielhochstatter@gmail.com
-- phone: 078 00 857 462
