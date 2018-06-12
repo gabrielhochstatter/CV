@@ -50,12 +50,12 @@ Project | Description | Repo / Demo Links | Technologies | Testing
 - Fast-paced learning, introducing new concepts and technologies on a almost daily basis.
 
 #### Leeds Trinity University (2010 to 2011)
-**BA Journalism**
+***BA Journalism***
 
 *Left unfinished to pursue career in music.*
 
 #### Gimnazija Bezigrad - Ljubljana, Slovenia
-**IB Diploma**
+***IB Diploma***
 
 *High school, graduated 2009.*
 
