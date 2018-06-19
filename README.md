@@ -6,6 +6,8 @@
 
 ☎️ 078 00 857 462
 
+🖥 [Click this link to see a better looking version of this CV!](https://gabrielhochstatter.github.io/)
+
 [Current Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) 
 
 Full-stack junior developer and graduate of the highly-selective 12-week [Makers Academy](https://www.makersacademy.com) coding bootcamp in London. Coming from a creative but highly technical background in music production, once I discovered coding I couldn't get enough, and pursuing a career in software development seemed to be an obvious choice for me.
