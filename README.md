@@ -26,7 +26,7 @@ Project | Description | Repo / Demo Links | Technologies | Testing
 
 #### Languages / Technologies / Methodologies:
 
-- **Ruby, Ruby on Rails, JavaScript, jQuery, HTML5, CSS, MVC frameworks**
+- **Ruby, Ruby on Rails, JavaScript, Node.js, jQuery, HTML5, CSS3**
 - **RSpec, Capybara, Selenium, Jasmine, Cypress**
 - **TDD, Agile, XP Values**
 
