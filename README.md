@@ -22,7 +22,7 @@ Project | Description | Repo / Demo Links | Technologies | Testing
 --- | --- | --- | --- | ---
 [Beat Makers](https://drum-machine-fksukfijbx.now.sh/) | A JavaScript step-sequencer drum machine with CSS animations that respond to the beat | [GitHub Repo](https://github.com/gabrielhochstatter/drum-machine) | JavaScript, jQuery, Howler.js, CSS, HTML5 | Jasmine
 [Acebook](https://github.com/gabrielhochstatter/acebook-byte-2) | A full stack Ruby-on-Rails facebook clone | [GitHub Repo](https://github.com/gabrielhochstatter/acebook-byte-2) | Ruby, Rails, Postgres, HTML, CSS | RSpec, Capybara
-[Simulated Bank Account Tech Test](https://github.com/gabrielhochstatter/bank-account) | A simulated tech test for Makers Academy, designed to demonstrate a core understanding of Object-Oriented Programming. Focus on simple but high quality code. | [GitHub Repo](https://github.com/gabrielhochstatter/bank-account) | Ruby | RSpec
+[Tic Tac Toe](https://github.com/gabrielhochstatter/tic-tac-toe) | A simple tic tac toe game, made with ES6 and Vue.js for the front end. | [GitHub Repo](https://github.com/gabrielhochstatter/tic-tac-toe) | ES6 JavaScript, Vue.js | Jasmine
 
 ## <a name="skills">Skills</a>
 
