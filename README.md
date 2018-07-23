@@ -23,6 +23,7 @@ Project | Description | Repo / Demo Links | Technologies | Testing
 [Beat Makers](https://drum-machine-fksukfijbx.now.sh/) | A JavaScript step-sequencer drum machine with CSS animations that respond to the beat | [GitHub Repo](https://github.com/gabrielhochstatter/drum-machine) | JavaScript, jQuery, Howler.js, CSS, HTML5 | Jasmine
 [Acebook](https://github.com/gabrielhochstatter/acebook-byte-2) | A full stack Ruby-on-Rails facebook clone | [GitHub Repo](https://github.com/gabrielhochstatter/acebook-byte-2) | Ruby, Rails, Postgres, HTML, CSS | RSpec, Capybara
 [Tic Tac Toe](https://github.com/gabrielhochstatter/tic-tac-toe) | A simple tic tac toe game, made with ES6 and Vue.js for the front end. | [GitHub Repo](https://github.com/gabrielhochstatter/tic-tac-toe) | ES6 JavaScript, Vue.js | Jasmine
+[Emoji Calculator](https://infallible-bhaskara-84ca2b.netlify.com/) | A calculator, but for emojis 🤓 | [GitHub Repo](https://github.com/gabrielhochstatter/emoji-calculator) | ES6 JavaScript, Vue.js | Jasmine
 
 ## <a name="skills">Skills</a>
 
