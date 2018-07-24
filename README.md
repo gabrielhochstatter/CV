@@ -22,14 +22,15 @@ Project | Description | Repo / Demo Links | Technologies | Testing
 --- | --- | --- | --- | ---
 [Beat Makers](https://drum-machine-fksukfijbx.now.sh/) | A JavaScript step-sequencer drum machine with CSS animations that respond to the beat | [GitHub Repo](https://github.com/gabrielhochstatter/drum-machine) | JavaScript, jQuery, Howler.js, CSS, HTML5 | Jasmine
 [Acebook](https://github.com/gabrielhochstatter/acebook-byte-2) | A full stack Ruby-on-Rails facebook clone | [GitHub Repo](https://github.com/gabrielhochstatter/acebook-byte-2) | Ruby, Rails, Postgres, HTML, CSS | RSpec, Capybara
-[Tic Tac Toe](https://github.com/gabrielhochstatter/tic-tac-toe) | A simple tic tac toe game, made with ES6 and Vue.js for the front end. | [GitHub Repo](https://github.com/gabrielhochstatter/tic-tac-toe) | ES6 JavaScript, Vue.js | Jasmine
 [Emoji Calculator](https://infallible-bhaskara-84ca2b.netlify.com/) | A calculator, but for emojis 🤓 | [GitHub Repo](https://github.com/gabrielhochstatter/emoji-calculator) | ES6 JavaScript, Vue.js | Jasmine
+[Tic Tac Toe](https://github.com/gabrielhochstatter/tic-tac-toe) | A simple tic tac toe game, made with ES6 and Vue.js for the front end. | [GitHub Repo](https://github.com/gabrielhochstatter/tic-tac-toe) | ES6 JavaScript, Vue.js | Jasmine
 
 ## <a name="skills">Skills</a>
 
 #### Languages / Technologies / Methodologies:
 
-- **Ruby, Ruby on Rails, JavaScript, Node.js, jQuery, HTML5, CSS3**
+- **Ruby, JavaScript, Node, Python, HTML5, CSS3**
+- **Modern frameworks including: Rails, Vue.js, Express, Flask + more**
 - **RSpec, Capybara, Selenium, Jasmine, Cypress**
 - **TDD, Agile, XP Values**
 
@@ -55,7 +56,7 @@ Project | Description | Repo / Demo Links | Technologies | Testing
 #### Leeds Trinity University (2010 to 2011)
 ***BA Journalism***
 
-*Left unfinished to pursue career in music.*
+*Left unfinished to pursue career in music after landing a record deal.*
 
 #### Gimnazija Bezigrad - Ljubljana, Slovenia
 ***IB Diploma***
