@@ -1,51 +1,65 @@
-## Gabriel Hochstatter
+# Gabriel Hochstatter
 
-📍 *London, UK*
+📍 London, UK | ✉️ gabrielhochstatter@gmail.com | ☎️ 07800847462
 
-✉️ gabrielhochstatter@gmail.com
+# Front End Developer
 
-☎️ 078 00 857 462
+I enjoy understanding problems and solving them elegantly and efficiently, especially if the solution helps to make someone's life easier.
 
-🖥 [Click this link to see a better looking version of this CV!](https://gabrielhochstatter.github.io/)
+# Skills
 
-[Current Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) 
+- **JavaScript**
+    
+    ES6, Node, and popular libraries/frameworks like React and Vue
 
-Full-stack junior developer and graduate of the highly-selective 12-week [Makers Academy](https://www.makersacademy.com) coding bootcamp in London. Coming from a creative but highly technical background in music production, once I discovered coding I couldn't get enough, and pursuing a career in software development seemed to be an obvious choice for me.
+- **HTML and CSS**
 
-Over the past few months I have grown from an enthusiastic coding hobbyist into someone who has come to value well-tested, clean and reusable code that is easy to understand and expand by the next person to work on it after myself.
+    Including SASS and CSS Modules
+  
+- **Teamwork and Collaboration**
 
-Currently seeking a position in London where I can take my skills and learning even further, and where I can be proud of the project I am working on.
+    I've worked in a variety of team environments, and have commerical experience using tools such as Git on a range of different platforms in an agile environment.
 
-## <a name="projects">Projects & Code</a>
+    I'm also very versatile and can jump in and provide value to a team very quickly.
 
-Project | Description | Repo / Demo Links | Technologies | Testing
---- | --- | --- | --- | ---
-[Beat Makers](https://drum-machine-fksukfijbx.now.sh/) | A JavaScript step-sequencer drum machine with CSS animations that respond to the beat | [GitHub Repo](https://github.com/gabrielhochstatter/drum-machine) | JavaScript, jQuery, Howler.js, CSS, HTML5 | Jasmine
-[Acebook](https://github.com/gabrielhochstatter/acebook-byte-2) | A full stack Ruby-on-Rails facebook clone | [GitHub Repo](https://github.com/gabrielhochstatter/acebook-byte-2) | Ruby, Rails, Postgres, HTML, CSS | RSpec, Capybara
-[Emoji Calculator](https://infallible-bhaskara-84ca2b.netlify.com/) | A calculator, but for emojis 🤓 | [GitHub Repo](https://github.com/gabrielhochstatter/emoji-calculator) | ES6 JavaScript, Vue.js | Jasmine
-[Tic Tac Toe](https://github.com/gabrielhochstatter/tic-tac-toe) | A simple tic tac toe game, made with ES6 and Vue.js for the front end. | [GitHub Repo](https://github.com/gabrielhochstatter/tic-tac-toe) | ES6 JavaScript, Vue.js | Jasmine
+- **Other Tech**
 
-## <a name="skills">Skills</a>
+    Besides JavaScript I also have used Ruby (including Rails) and Python for web development, and I dabble in other languages from time to time.
 
-#### Languages / Technologies / Methodologies:
+# Experience
 
-- **Ruby, JavaScript, Node, Python, HTML5, CSS3**
-- **Modern frameworks including: Rails, Vue.js, Express, Flask + more**
-- **RSpec, Capybara, Selenium, Jasmine, Cypress**
-- **TDD, Agile, XP Values**
+## Front End Developer
+**MMT Digital**
 
-#### General Skills:
+*September 2018 - November 2018*
 
-- **Fast Learner** - Both in my previous career and in my time learning to code over the past few months, I've always had to learn new skills and technologies in short timeframes.
-- **Problem Solver** - Music production, much like software development, involves solving many small problems in a row to achieve a greater goal.
-- **Enthusiastic** - Finding my new passion in coding has made me highly motivated, almost every day I find something new that gets me excited about software development.
-- **Creative** - In my previous line of work creativity was essential and I have found it very useful in the early days of my new career.
-- **Attention to detail** - I am always looking out to make sure that my work is well-crafted, and the small details are a big part of that.
+Worked on a clientside team at Vodafone responsible for developing a portal for their enterprise customers.
 
-## <a name="education">Education</a>
+As a Front End Developer my duties included:
 
-#### Makers Academy (March 2018 to June 2018)
-12 week intensive coding bootcamp.
+- **Writing code** for the React-based front end of the project.
+- **Participating in sprint demos** where I would demonstrate my work to stakeholders.
+- **Collaborating** with other developers on the team via pair-programming and using peer-review to maintain a high standard of code quality.
+- **Writing unit tests** to keep those standards high.
+- **Writing documentation** on the team wiki and maintaining it to ensure all members of the team (and any new starters) were all on the same page at all times.
+
+## Music Producer
+**PARITY**
+
+*2011 - 2018*
+
+A music production project that achieved over 2 million plays on Spotify, global radio play and live support from top DJs in the genre.
+Also provided production, writing, mixing and mastering services for a wide variety of clients all over the world. 
+
+# Education
+
+## Makers Academy
+
+**Web Development Bootcamp**
+
+*March 2018 - June 2018*
+
+12 week intensive coding bootcamp:
 
 - Focused on Test Driven Development and Object Oriented Design.
 - Pair programming and team work to build communication skills in a software development environment.
@@ -53,28 +67,11 @@ Project | Description | Repo / Demo Links | Technologies | Testing
 - Agile and XP values instilled in the students from day one.
 - Fast-paced learning, introducing new concepts and technologies on a almost daily basis.
 
-#### Leeds Trinity University (2010 to 2011)
-***BA Journalism***
+### Leeds Trinity University
+**BA Journalism**
 
 *Left unfinished to pursue career in music after landing a record deal.*
 
-#### Gimnazija Bezigrad - Ljubljana, Slovenia
-***IB Diploma***
+# Hobbies and Interests
 
-*High school, graduated 2009.*
-
-## <a name="experience">Experience</a>
-
-#### PARITY
-***Music Producer***
-
-*2011 - 2018*
-
-A music production project that achieved over 1 million plays on Spotify, global radio play and live support from top DJs in the genre.
-Also provided production, writing, mixing and mastering services for a wide variety of clients all over the world. [Spotify](https://open.spotify.com/artist/1L4Il7L0c0kU1bVAQbrQkv?si=ph9AaYWETM2lpeBl2LD69A)
-
-## <a name="interests">Hobbies and Interests</a>
-
-- Huge passion for electronic music of almost every description and genre (lately I'm really into techno).
-- Anything and everything automotive and motorsports related.
-- I also quite enjoy gaming and following competitive e-sports.
+When I'm not writing code, I'm probably either writing music, gaming or at the Mile End climbing wall.
